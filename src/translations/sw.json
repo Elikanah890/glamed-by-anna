@@ -1,0 +1,471 @@
+{
+  "announcement": {
+    "text": "Weka Nadi Leo na Upate Punguzo la 10%!",
+    "textShort": "Weka Nadi & Pata 10% Off!",
+    "close": "Funga"
+  },
+  "common": {
+    "bookNow": "Weka Nadi",
+    "whatsappUs": "Ongea WhatsApp",
+    "learnMore": "Jifunze Zaidi",
+    "viewAll": "Tazama Zote",
+    "viewGallery": "Tazama Picha",
+    "getInTouch": "Wasiliana Nasi",
+    "sendMessage": "Tuma Ujumbe",
+    "subscribe": "Jiandikishe",
+    "backToTop": "Rudi Juu",
+    "loading": "Inapakiwa...",
+    "close": "Funga",
+    "open": "Fungua",
+    "menu": "Menyu",
+    "search": "Tafuta",
+    "or": "au"
+  },
+  "nav": {
+    "": "Nyumbani",
+    "home": "Nyumbani",
+    "about": "Kuhusu Sisi",
+    "services": "Huduma",
+    "gallery": "Picha",
+    "bridal": "Harusi",
+    "pricing": "Bei",
+    "testimonials": "Ushuhuda",
+    "faq": "Maswali",
+    "contact": "Wasiliana"
+  },
+  "home": {
+    "hero": {
+      "tagline": "Pale Urembo Unapokutana na Umaridadi",
+      "titleLine1": "Pata",
+      "titleLine2": "Urembo wa Kifahari",
+      "book": "Weka Nadi",
+      "gallery": "Tazama Picha",
+      "scroll": "Tembeza"
+    },
+    "services": { "title": "Huduma Zetu Maalum", "subtitle": "Ustadi wa Kitaalam", "viewAll": "Tazama Huduma Zote" },
+    "stats": { "title": "Kwa Nini Utuchague", "subtitle": "Athari Zetu", "label0": "Wateja Wenye Furaha", "label1": "Miaka ya Uzoefu", "label2": "Huduma", "label3": "Ukadiriaji" },
+    "about": {
+      "brandName": "Glamed by Anna",
+      "yearsCount": "5+",
+      "yearsLabel": "Miaka",
+      "tagline": "Kuhusu Glamed by Anna",
+      "heading": "Kuunda Urembo, Mchoro Mmoja kwa Wakati",
+      "story": "Ilianzishwa mwaka 2019, Glamed by Anna imekuwa kituo cha kwanza cha urembo nchini Tanzania. Shauku yetu ni kuongeza uzuri wa asili kwa mbinu zinazosherehekea ubinafsi na umaridadi.",
+      "quote": "\"Urembo ni nguvu; tabasamu ni upanga wake.\"",
+      "cta": "Jifunze Zaidi Kuhusu Sisi"
+    },
+    "bridal": {
+      "badge": "Harusi",
+      "tagline": "Uzoefu wa Harusi",
+      "heading": "Muonekano Wako wa Ndoto ya Harusi",
+      "description": "Kuanzia ushauri hadi marekebisho ya mwisho, tunatengeneza muonekano wa harusi usiosahaulika.",
+      "cta": "Chunguza Vifurushi vya Harusi",
+      "testimonialQuote": "Anna alinifanya nijisikie kama malkia siku yangu ya harusi. Urembo ulidumu usiku kucha na sijawahi kujisikia mrembo zaidi.",
+      "testimonialName": "Grace M.",
+      "testimonialLocation": "Mbeya",
+      "checklist": {
+        "consultation": "Ushauri wa kibinafsi wa harusi",
+        "trial": "Kipindi cha majaribio kamili",
+        "products": "Bidhaa za kifahari za kudumu",
+        "location": "Huduma ya nyumbani inapatikana",
+        "touchup": "Seti ya kurekebisha kwa siku nzima"
+      }
+    },
+    "process": {
+      "title": "Mchakato Wetu wa Urembo",
+      "subtitle": "Jinsi Tunavyofanya Kazi",
+      "step1Title": "Ushauri",
+      "step1Desc": "Tunajadili maono yako, aina ya ngozi, na muonekano unaotaka ili kuunda mpango wa kibinafsi.",
+      "step2Title": "Kipindi cha Majaribio",
+      "step2Desc": "Majaribio kamili yanahakikisha kila undani umekamilika kabla ya siku yako kuu.",
+      "step3Title": "Utekelezaji",
+      "step3Desc": "Siku hiyo, tunawasili tukiwa tayari na bidhaa za kifahari kwa urembo kamili.",
+      "step4Title": "Urembo",
+      "step4Desc": "Unaangaza kwa kujiamini — muonekano unaodumu na kupendeza kwenye picha."
+    },
+    "gallery": { "title": "Kazi Zetu", "subtitle": "Picha", "viewAll": "Tazama Picha Zote" },
+    "pricing": { "title": "Vifurushi Vyetu", "subtitle": "Bei", "viewAll": "Tazama Bei Zote" },
+    "testimonials": { "title": "Upendo wa Wateja", "subtitle": "Ushuhuda", "viewAll": "Soma Maoni Yote" },
+    "faq": { "title": "Maswali Yanayoulizwa Sana", "subtitle": "Maswali", "viewAll": "Tazama Maswali Yote" },
+    "cta": {
+      "heading": "Uko Tayari Kung'ara?",
+      "description": "Weka nadi yako leo na uturuhusu kukung'arisha",
+      "book": "Weka Nadi",
+      "whatsapp": "WhatsApp Sisi"
+    },
+    "newsletter": {
+      "tagline": "Endelea Kuwasiliana",
+      "title": "Jiunge na Orodha Yetu",
+      "description": "Jiandikishe kwa ofa za kipekee na vidokezo vya urembo.",
+      "placeholder": "Ingiza barua pepe yako",
+      "subscribe": "Jiandikishe",
+      "privacy": "Hakuna taka. Jiondoe wakati wowote."
+    }
+  },
+  "about": {
+    "title": "Hadithi Yetu",
+    "subtitle": "Safari ya Glamed by Anna",
+    "hero": { "description": "Gundua ustadi, shauku, na kujitolea nyuma ya kila mabadiliko." },
+    "story": {
+      "heading": "Ilipoanzia",
+      "subtitle": "Hadithi Yetu",
+      "paragraph1": "Glamed by Anna ilizaliwa kutokana na imani rahisi: kila mwanamke anastahili kujisikia mrembo, mwenye ujasiri, na asiyesahaulika. Ilianzishwa mwaka 2019 na Anna, studio yetu imekuwa kituo kikuu cha ustadi wa urembo nchini Tanzania.",
+      "paragraph2": "Kilichoanza kama shauku ya kuongeza urembo wa asili kimekua kuwa studio kamili ya huduma za urembo inayowabadilisha wanawake kwa nyakati zao muhimu.",
+      "paragraph3": "Mbinu yetu inachanganya ustadi wa kiufundi na maono ya kisanii. Tunatumia bidhaa za kifahari pekee, tunafuatilia mitindo ya kimataifa, na tunabadilisha kila muonekano."
+    },
+    "meetAnna": {
+      "title": "Kukutana na Anna",
+      "subtitle": "Msanii Nyuma ya Burashi",
+      "name": "Anna",
+      "role": "Mwanzilishi na Msanii Mkuu wa Urembo",
+      "signature": "Anna",
+      "paragraph1": "Anna ni msanii wa urembo aliyeidhinishwa na mwenye uzoefu wa zaidi ya miaka 5 katika tasnia ya urembo. Amefunzwa katika vyuo vikuu vya urembo, analeta viwango vya kimataifa Tanzania.",
+      "paragraph2": "Kazi yake imeonyeshwa katika harusi, maonyesho ya mitindo, na matukio ya kikampuni. Mtindo wake unachanganya umaridadi wa kawaida na mitindo ya kisasa.",
+      "paragraph3": "Zaidi ya ujuzi wake, Anna anajulikana kwa utu wake wa joto na uwezo wa kumfanya kila mteja ajisikie vizuri, kusikilizwa, na kujaliwa kwa dhati.",
+      "quote": "Urembo ni zaidi ya bidhaa tu. Ni juu ya kuelewa maono ya mteja wangu, kuongeza urembo wao wa asili, na kuwapa ujasiri wa kung'ara."
+    },
+    "mission": { "title": "Dhamira Yetu", "text": "Kuwawezesha wanawake kupitia sanaa ya urembo, kuwasaidia kugundua nafsi zao nzuri na zenye ujasiri huku tukitoa uzoefu wa kifahari, wa kibinafsi, na usiosahaulika." },
+    "vision": { "title": "Maono Yetu", "text": "Kuwa chapa ya urembo ya kifahari inayoaminika zaidi Tanzania, inayotambuliwa kwa ubora, ubunifu, na uwezo wa kumfanya kila mwanamke ajisikie kama toleo bora la nafsi yake." },
+    "values": {
+      "title": "Maadili Yetu ya Msingi",
+      "heading": "Tunachosimamia",
+      "excellence": "Ubora",
+      "excellenceDesc": "Hatukubali maelewano katika ubora",
+      "authenticity": "Ukweli",
+      "authenticityDesc": "Tunaongeza urembo wa asili, kamwe hatuufichi",
+      "innovation": "Ubunifu",
+      "innovationDesc": "Tunakaa mbele ya mitindo ya urembo ya kimataifa",
+      "integrity": "Uadilifu",
+      "integrityDesc": "Tunakuwa wakweli kuhusu kinachofaa kwako",
+      "joy": "Furaha",
+      "joyDesc": "Tunasherehekea urembo katika aina zake zote"
+    },
+    "purpose": { "heading": "Lengo Letu", "subtitle": "Kwa Nini Tunafanya Tunachofanya" },
+    "stats": { "heading": "Kwa Nambari" },
+    "cta": { "description": "Iwe ni siku yako ya harusi, sherehe maalum, au siku unayotaka kujisikia wa ajabu - tuko hapa kufanya iwezekane." },
+    "meta": { "title": "Kuhusu Sisi | Glamed by Anna", "description": "Gundua hadithi ya Glamed by Anna, studio ya kifahari ya urembo nchini Tanzania." }
+  },
+  "services": {
+    "title": "Huduma Zetu",
+    "subtitle": "Huduma za urembo za kifahari kwa umaridadi wako",
+    "badge": "Huduma Zetu",
+    "gridTitle": "Chagua Urembo Wako",
+    "gridSubtitle": "Kila huduma imeundwa kuongeza urembo wako wa asili",
+    "duration": "Muda",
+    "from": "Kuanzia",
+    "price": "Bei",
+    "benefits": "Faida",
+    "metaDescription": "Chunguza huduma za urembo za Glamed by Anna ikiwemo harusi, soft glam, luxury glam, na zaidi.",
+    "bridal-makeup": {
+      "title": "Urembo wa Harusi",
+      "description": "Badili siku yako ya harusi kuwa hadithi ya kifahari na urembo wetu maalum wa harusi. Wasanii wetu wataunda muonekano wa kudumu unaonakiliwa vizuri kwenye picha na kudumu sherehe nzima.",
+      "duration": "Masaa 3-4",
+      "price": "Kuanzia 150,000 TZS"
+    },
+    "soft-glam": {
+      "title": "Urembo Mwororo",
+      "description": "Urembo mwororo wa kifahari unaoongeza uzuri wako wa asili. Unafaa kwa hafla za mchana na matukio ya kifahari.",
+      "duration": "Masaa 1.5-2",
+      "price": "Kuanzia 80,000 TZS"
+    },
+    "natural-glam": {
+      "title": "Urembo wa Asili",
+      "description": "Onekana kama toleo bora lako kwa huduma yetu ya urembo wa asili. Uboreshaji wa hila unaoacha uzuri wako wa kweli uangaze.",
+      "duration": "Saa 1-1.5",
+      "price": "Kuanzia 60,000 TZS"
+    },
+    "luxury-glam": {
+      "title": "Urembo wa Kifahari",
+      "description": "Urembo wa kifahari kwa hafla zako za kuvutia zaidi. Urembo kamili, macho ya kuvutia, na umaliziaji wa hali ya juu.",
+      "duration": "Masaa 2-3",
+      "price": "Kuanzia 120,000 TZS"
+    },
+    "graduation-makeup": {
+      "title": "Urembo wa Mahafali",
+      "description": "Sherehekea mafanikio yako ya kitaaluma kwa urembo unaokufanya ujisikie mwenye mafanikio na mrembo. Inafaa kwa picha na sherehe za mahafali.",
+      "duration": "Masaa 1.5-2",
+      "price": "Kuanzia 70,000 TZS"
+    },
+    "party-makeup": {
+      "title": "Urembo wa Sherehe",
+      "description": "Vutia macho kwenye sherehe yako ijayo kwa urembo wetu wa kuvutia. Mng'aro na muonekano wa kuvutia kwa usiku usiosahaulika.",
+      "duration": "Masaa 1.5-2",
+      "price": "Kuanzia 85,000 TZS"
+    },
+    "traditional-makeup": {
+      "title": "Urembo wa Jadi",
+      "description": "Heshimu utamaduni wako kwa huduma zetu za urembo wa jadi. Tunaelewa mahitaji ya kipekee ya sherehe za jadi.",
+      "duration": "Masaa 2-3",
+      "price": "Kuanzia 100,000 TZS"
+    },
+    "photoshoot-makeup": {
+      "title": "Urembo wa Upigaji Picha",
+      "description": "Urembo wa kitaalam ulioundwa hasa kwa kamera. Kila undani ni kamili kwa upigaji wako wa picha.",
+      "duration": "Masaa 2-3",
+      "price": "Kuanzia 90,000 TZS"
+    },
+    "home-service": {
+      "title": "Huduma ya Nyumbani",
+      "description": "Urembo wa kifahari katika faraja ya nyumba yako. Wasanii wetu wanakuja kwako kwa urahisi na faragha.",
+      "duration": "Inatofautiana",
+      "price": "Kuanzia +50,000 TZS ada ya usafiri"
+    },
+    "hair-styling": {
+      "title": "Kupiga Nywele",
+      "description": "Kamilisha muonekano wako kwa upigaji nywele wa kitaalam unaopatana na urembo wako.",
+      "duration": "Saa 1-2",
+      "price": "Kuanzia 50,000 TZS"
+    },
+    "lashes": {
+      "title": "Kope",
+      "description": "Ufungaji wa kope za kifahari kwa macho ya kuvutia na ya kupendeza. Zinapatikana katika mitindo mbalimbali kutoka asili hadi ya kuvutia.",
+      "duration": "Dakika 30-45",
+      "price": "Kuanzia 30,000 TZS"
+    }
+  },
+  "gallery": {
+    "title": "Picha Zetu",
+    "subtitle": "Onyesho la mabadiliko na nyakati nzuri",
+    "badge": "Kwingineko",
+    "gridTitle": "Kabla na Baada ya Mabadiliko",
+    "all": "Zote",
+    "bridal": "Bibi Harusi",
+    "graduation": "Mahafali",
+    "party": "Sherehe",
+    "traditional": "Jadi",
+    "photoshoot": "Upigaji Picha",
+    "videos": "Video",
+    "noResults": "Hakuna picha katika kategoria hii",
+    "previous": "Iliyopita",
+    "next": "Inayofuata",
+    "metaDescription": "Vinjari picha zetu za mabadiliko ya urembo. Muonekano wa harusi, mahafali, sherehe, na wahariri."
+  },
+  "bridal": {
+    "title": "Uzoefu wa Bibi Harusi",
+    "subtitle": "Siku yako ya harusi inastahili kilicho bora",
+    "badge": "Bibi Harusi",
+    "introTitle": "Muonekano Wako wa Ndoto ya Harusi",
+    "introSubtitle": "Kila bibi harusi anastahili kujisikia wa ajabu",
+    "introText": "Kuanzia ushauri wa awali hadi marekebisho ya mwisho siku ya harusi, tunatengeneza muonekano wa kipekee na usiosahaulika.",
+    "whyUsTitle": "Kwa Nini Mabibi Harusi Wanatuchagua",
+    "whyUsSubtitle": "Kinachotofautisha huduma yetu ya harusi",
+    "timeline": {
+      "title": "Safari Yako ya Harusi",
+      "subtitle": "Mchakato Wetu",
+      "step1": "Ushauri",
+      "step1Desc": "Tunajadili maono yako, mandhari ya harusi, mtindo wa gauni, na muonekano unaopendelea.",
+      "step2": "Jaribio",
+      "step2Desc": "Jaribio kamili la urembo kukamilisha kila undani kabla ya siku kuu.",
+      "step3": "Uthibitisho wa Mwisho",
+      "step3Desc": "Tunathibitisha maelezo yote, ratiba, na mpango wa marekebisho.",
+      "step4": "Siku ya Harusi",
+      "step4Desc": "Utekelezaji usio na kasoro - tunawasili tukiwa tayari na tunatoa ukamilifu."
+    },
+    "benefits": {
+      "premium": "Bidhaa za kifahari za kudumu",
+      "customized": "Zilizoboreshwa kwa mtindo wako",
+      "trials": "Kipindi cha jaribio cha bure",
+      "punctual": "Huduma ya kitaalam kwa wakati",
+      "trained": "Msanii aliyefunzwa kimataifa",
+      "clients": "Mabibi harusi 500+ wamehudumiwa"
+    },
+    "testimonialTitle": "Sikia Kutoka kwa Mabibi Harusi Wetu",
+    "testimonialSubtitle": "Hadithi za kweli kutoka kwa mabibi harusi",
+    "ctaHeading": "Uko Tayari Kupanga Muonekano Wako wa Harusi?",
+    "ctaDescription": "Weka nadi yako ya ushauri wa harusi leo.",
+    "metaDescription": "Gundua uzoefu mkuu wa urembo wa harusi na Glamed by Anna. Muonekano maalum wa harusi, vipindi vya majaribio, na utekelezaji usio na kasoro."
+  },
+  "pricing": {
+    "title": "Bei",
+    "subtitle": "Uwekezaji wa uwazi katika urembo wako",
+    "badge": "Bei",
+    "gridTitle": "Chagua Kifurushi Chako",
+    "popular": "Inayochaguliwa Zaidi",
+    "includes": "Inajumuisha",
+    "bestFor": "Inafaa kwa:",
+    "bookPackage": "Weka Nadi ya Kifurushi Hiki",
+    "faqTitle": "Maswali ya Bei",
+    "faqSubtitle": "Maswali ya kawaida kuhusu vifurushi vyetu",
+    "metaDescription": "Tazama bei za uwazi za huduma za urembo za Glamed by Anna. Vifurushi kuanzia 60,000 TZS.",
+    "basic": {
+      "name": "Kifurushi cha Msingi",
+      "services": "Urembo wa Asili",
+      "include0": "Ushauri",
+      "include1": "Ufungaji",
+      "include2": "Seti ya kurekebisha",
+      "bestFor": "Matukio ya kila siku, Hafla za kawaida"
+    },
+    "standard": {
+      "name": "Kifurushi cha Kawaida",
+      "services": "Urembo Mwororo au Urembo wa Jadi",
+      "include0": "Ushauri",
+      "include1": "Ufungaji",
+      "include2": "Seti ya kurekebisha",
+      "include3": "Ufungaji wa kope",
+      "bestFor": "Mahafali, Sherehe, Upigaji Picha"
+    },
+    "premium": {
+      "name": "Kifurushi cha Kifahari",
+      "services": "Urembo wa Harusi au Urembo wa Kifahari",
+      "include0": "Ushauri",
+      "include1": "Kipindi cha majaribio",
+      "include2": "Ufungaji",
+      "include3": "Seti ya kurekebisha",
+      "include4": "Kope za kifahari",
+      "include5": "Seti ya kurekebisha midomo",
+      "bestFor": "Harusi, Matukio ya zulia jekundu"
+    },
+    "vip": {
+      "name": "Uzoefu wa VIP",
+      "services": "Kifurushi kamili cha harusi + Huduma ya nyumbani",
+      "include0": "Ushauri",
+      "include1": "Kipindi cha majaribio",
+      "include2": "Ufungaji siku ya harusi",
+      "include3": "Seti ya kurekebisha",
+      "include4": "Kope za kifahari",
+      "include5": "Seti ya kurekebisha midomo",
+      "include6": "Huduma ya nyumbani",
+      "bestFor": "Harusi za kifahari, Huduma kamili"
+    }
+  },
+  "testimonials": {
+    "title": "Ushuhuda",
+    "subtitle": "Sikia kutoka kwa wateja wetu wazuri",
+    "badge": "Ushuhuda",
+    "gridTitle": "Wateja Wetu Wanasema Nini",
+    "metaDescription": "Soma ushuhuda kutoka kwa wateja 500+ wa Glamed by Anna. Maoni ya harusi, mahafali, na urembo wa sherehe."
+  },
+  "faq": {
+    "title": "Maswali Yanayoulizwa Sana",
+    "subtitle": "Kila unachohitaji kujua kuhusu huduma zetu",
+    "badge": "Maswali",
+    "gridTitle": "Una Maswali?",
+    "ctaHeading": "Bado Una Maswali?",
+    "ctaDescription": "Tuko hapa kusaidia. Wasiliana nasi na tutajibu kila kitu.",
+    "categories": {
+      "booking": "Uhifadhi na Malipo",
+      "preparation": "Maandalizi",
+      "bridal": "Huduma za Bibi Harusi",
+      "travel": "Usafiri na Huduma ya Nyumbani",
+      "products": "Bidhaa na Mzio",
+      "cancellation": "Kughairi"
+    },
+    "metaDescription": "Pata majibu ya maswali yanayoulizwa sana kuhusu huduma za urembo za Glamed by Anna.",
+    "q1": "Ninawekaje nadi?",
+    "a1": "Unaweza kuweka nadi kupitia fomu yetu ya wavuti, au wasiliana nasi moja kwa moja kupitia WhatsApp kwa 0655737871.",
+    "q2": "Je, ninahitaji kulipa amana?",
+    "a2": "Ndiyo, tunahitaji amana ya 50% kuthibitisha nadi yako. Salio linalobaki linalipwa siku ya huduma.",
+    "q3": "Je, mnakubali njia gani za malipo?",
+    "a3": "Tunakubali M-Pesa, uhamisho wa benki, na malipo ya fedha taslimu.",
+    "q4": "Je, ninajiandaaje kwa nadi yangu?",
+    "a4": "Kuja na uso safi, uliotiwa moisturizer. Ikiwa una matatizo yoyote ya ngozi, tujulishe wakati wa ushauri.",
+    "q5": "Je, ninaweza kuleta bidhaa zangu?",
+    "a5": "Kabisa! Tunafurahi kutumia bidhaa unazopendelea ikiwa una mzio au mapendeleo maalum.",
+    "q6": "Je, ninapaswa kuweka nadi ya urembo wa harusi lini?",
+    "a6": "Tunashauri kuweka nadi angalau miezi 3-6 kabla ya harusi yako, hasa wakati wa msimu wa kilele.",
+    "q7": "Je, mnatoa vipindi vya majaribio?",
+    "a7": "Ndiyo! Kila nadi ya harusi inajumuisha kipindi cha majaribio kukamilisha muonekano wako kabla ya siku kuu.",
+    "q8": "Je, mnasafiri kwa matukio?",
+    "a8": "Ndiyo, tunatoa huduma ya nyumbani na kusafiri kwenda maeneo mbalimbali. Ada ya usafiri inatumika kulingana na umbali.",
+    "q9": "Je, mnatoa huduma katika maeneo gani?",
+    "a9": "Hasa tunahudumia Mbeya na maeneo jirani. Kwa maeneo mengine, tafadhali wasiliana nasi kwa upatikanaji.",
+    "q10": "Je, mnatumia bidhaa gani?",
+    "a10": "Tunatumia bidhaa za kitaalam za ubora wa juu kutoka kwa chapa zinazoongoza. Tunatanguliza afya ya ngozi na kutumia bidhaa zinazofaa kwa aina zote za ngozi.",
+    "q11": "Je, mnahudumia ngozi nyeti?",
+    "a11": "Ndiyo, tuna bidhaa zisizo na allergener na tunaweza kuhudumia unyeti mwingi wa ngozi. Tafadhali tujulishe wakati wa kuweka nadi.",
+    "q12": "Je, sera yenu ya kughairi ni ipi?",
+    "a12": "Kughairi lazima kufanywe angalau saa 48 kabla kwa kurejeshewa amana kamili. Kughairi kwa dakika za mwisho kunaweza kupoteza amana."
+  },
+  "contact": {
+    "title": "Wasiliana Nasi",
+    "subtitle": "Tungependa kusikia kutoka kwako",
+    "letsTalk": "Tuongee",
+    "reachOut": "Wasiliana",
+    "pageTitle": "Wasiliana | Glamed by Anna",
+    "metaDescription": "Wasiliana na Glamed by Anna. Tembelea studio yetu Mahakama Avenue, Mbeya, au weka nadi kupitia WhatsApp.",
+    "mapTitle": "Tupate",
+    "mapSubtitle": "Mahali Petu",
+    "getDirections": "Pata Maelekezo",
+    "whatsappBtn": "Ongea WhatsApp",
+    "form": {
+      "heading": "Tuma Ujumbe",
+      "name": "Jina Kamili",
+      "namePlaceholder": "Jina lako",
+      "email": "Barua Pepe",
+      "emailPlaceholder": "yako@baruapepe.com",
+      "subject": "Kichwa",
+      "subjectPlaceholder": "Kuhusu nini?",
+      "message": "Ujumbe Wako",
+      "messagePlaceholder": "Tuambie kuhusu maono yako...",
+      "send": "Tuma kupitia WhatsApp"
+    },
+    "info": {
+      "phone": "Simu",
+      "email": "Barua Pepe",
+      "location": "Mahali",
+      "hours": "Saa za Kazi",
+      "social": "Tufuate"
+    }
+  },
+  "booking": {
+    "title": "Weka Nadi Yako",
+    "subtitle": "Chukua hatua ya kwanza kuelekea mabadiliko yako ya urembo",
+    "badge": "Weka Nadi",
+    "whyUsTitle": "Kwa Nini Uweke Nadi Nasi",
+    "whyUsSubtitle": "Tofauti ya Glamed by Anna",
+    "whatToExpect": "Cha Kutarajia",
+    "benefit1": "Msanii wa urembo aliyeidhinishwa kitaalam",
+    "benefit2": "Bidhaa za kifahari za kudumu",
+    "benefit3": "Ushauri wa kibinafsi",
+    "benefit4": "Muonekano usio na kasoro kwa kamera",
+    "expect1": "Jaza fomu ya uhifadhi na maelezo yako",
+    "expect2": "Tutathibitisha nadi yako kupitia WhatsApp",
+    "expect3": "Fika studio yetu au tunakuja kwako",
+    "expect4": "Furahia kipindi cha urembo cha kifahari na cha kibinafsi",
+    "expect5": "Ondoka ukijisikia mwenye ujasiri, mrembo, na asiyesahaulika",
+    "form": {
+      "name": "Jina Kamili",
+      "namePlaceholder": "Ingiza jina lako kamili",
+      "phone": "Nambari ya Simu",
+      "phonePlaceholder": "mf. 0712345678",
+      "email": "Barua Pepe",
+      "emailPlaceholder": "yako@baruapepe.com",
+      "service": "Chagua Huduma",
+      "servicePlaceholder": "Chagua huduma",
+      "date": "Tarehe Unayopendelea",
+      "time": "Muda Unaopendelea",
+      "location": "Mahali",
+      "locationPlaceholder": "Chagua mahali",
+      "studio": "Studio (Mahakama Avenue)",
+      "home": "Huduma ya Nyumbani",
+      "message": "Maelezo ya Ziada",
+      "messagePlaceholder": "Maombi yoyote maalum...",
+      "policy": "Kwa kuweka nadi, unakubali sera yetu ya kughairi (taarifa ya saa 48 inahitajika).",
+      "submit": "Weka Nadi kupitia WhatsApp 💬",
+      "instant": "Weka Nadi Moja kwa Moja WhatsApp 💬"
+    },
+    "success": "Maelezo yako yatafunguliwa katika WhatsApp. Tafadhali tuma ujumbe kuthibitisha!",
+    "required": "Sehemu hii inahitajika",
+    "invalidEmail": "Tafadhali ingiza barua pepe sahihi",
+    "invalidPhone": "Tafadhali ingiza nambari ya simu sahihi",
+    "metaDescription": "Weka nadi yako ya urembo wa kifahari na Glamed by Anna."
+  },
+  "404": {
+    "title": "Ukurasa Haupatikani",
+    "message": "Ukurasa unaoutafuta haupo au umehamishwa.",
+    "backHome": "Rudi Nyumbani",
+    "metaDescription": "Ukurasa haupatikani — Glamed by Anna"
+  },
+  "footer": {
+    "tagline": "Kusaidia kila mwanamke kujisikia mrembo, mwenye ujasiri, wa kifahari, na asiyesahaulika.",
+    "quickLinks": "Viungo",
+    "services": "Huduma",
+    "contact": "Wasiliana",
+    "hours": "Saa za Kazi",
+    "hoursText": "Jumatatu-Ijumaa: 8AM-8PM | Jumamosi: 9AM-6PM",
+    "newsletter": "Endelea Kusasishwa",
+    "newsletterPlaceholder": "Barua pepe yako",
+    "copyright": "Haki zote zimehifadhiwa.",
+    "established": "Ilianzishwa"
+  }
+}

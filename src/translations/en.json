@@ -1,0 +1,538 @@
+{
+  "announcement": {
+    "text": "Book Your Appointment Today & Get 10% Off!",
+    "textShort": "Book & Get 10% Off!",
+    "close": "Close announcement"
+  },
+  "common": {
+    "bookNow": "Book Now",
+    "whatsappUs": "Chat on WhatsApp",
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "viewGallery": "View Gallery",
+    "getInTouch": "Get in Touch",
+    "sendMessage": "Send Message",
+    "subscribe": "Subscribe",
+    "backToTop": "Back to Top",
+    "loading": "Loading...",
+    "close": "Close",
+    "open": "Open",
+    "menu": "Menu",
+    "search": "Search",
+    "or": "or"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "gallery": "Gallery",
+    "bridal": "Bridal",
+    "pricing": "Pricing",
+    "testimonials": "Testimonials",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Experience Luxury Makeup",
+      "titleLine1": "Experience",
+      "titleLine2": "Luxury Makeup",
+      "subtitle": "Transform your beauty with expert artistry. From bridal elegance to red-carpet glamour, every look is crafted to perfection.",
+      "tagline": "Where Beauty Meets Elegance",
+      "scroll": "Scroll",
+      "book": "Book Appointment",
+      "gallery": "View Gallery"
+    },
+    "services": {
+      "title": "Our Signature Services",
+      "subtitle": "Expert Artistry",
+      "viewAll": "View All Services"
+    },
+    "stats": {
+      "title": "Why Choose Us",
+      "subtitle": "Our Impact",
+      "label0": "Happy Clients",
+      "label1": "Years Experience",
+      "label2": "Services",
+      "label3": "Rating"
+    },
+    "about": {
+      "title": "About Us",
+      "subtitle": "The Art of Beauty",
+      "tagline": "About Glamed by Anna",
+      "heading": "Crafting Beauty, One Brushstroke at a Time",
+      "description": "Founded in 2019, Glamed by Anna has been the premier destination for luxury makeup artistry in Tanzania. Our passion is enhancing natural beauty with techniques that celebrate individuality and elegance.",
+      "mission": "Every face is a canvas, and every brushstroke tells a story. We believe that confidence begins with feeling beautiful in your own skin.",
+      "story": "Founded in 2019, Glamed by Anna has been the premier destination for luxury makeup artistry in Tanzania.",
+      "quote": "\"Beauty is power; a smile is its sword.\"",
+      "brandName": "Glamed by Anna",
+      "yearsCount": "5+",
+      "yearsLabel": "Years",
+      "cta": "Learn More About Us"
+    },
+    "bridal": {
+      "title": "Your Dream Wedding Look",
+      "subtitle": "Because every bride deserves to feel extraordinary",
+      "tagline": "Bridal Experience",
+      "heading": "Your Dream Wedding Look",
+      "description": "Your wedding day deserves nothing less than perfection. Our bridal experience is a curated journey from consultation to the final touch, ensuring you feel radiant and confident as you walk down the aisle.",
+      "testimonialQuote": "Anna made me feel like a queen on my wedding day. The makeup lasted all night and I've never felt more beautiful.",
+      "testimonialName": "Grace M.",
+      "testimonialLocation": "Bride, Mbeya",
+      "badge": "Bridal",
+      "cta": "Explore Bridal Packages",
+      "checklist": {
+        "consultation": "Personalized bridal consultation",
+        "trial": "Trial session with multiple looks",
+        "products": "Premium, long-lasting products",
+        "location": "On-location service available",
+        "touchup": "Touch-up kit for the entire day"
+      }
+    },
+    "process": {
+      "title": "Our Glam Process",
+      "subtitle": "How We Work",
+      "step1Title": "Consultation",
+      "step1Desc": "We discuss your vision, skin type, and desired look to create a personalized plan.",
+      "step2Title": "Trial Session",
+      "step2Desc": "A full trial run ensures every detail is perfected before your big day.",
+      "step3Title": "Execution",
+      "step3Desc": "On the day, we arrive prepared with premium products for a flawless application.",
+      "step4Title": "The Glam",
+      "step4Desc": "You shine with confidence — a look that lasts and photographs beautifully."
+    },
+    "gallery": {
+      "title": "Our Work",
+      "subtitle": "Gallery",
+      "viewAll": "View Full Gallery"
+    },
+    "pricing": {
+      "title": "Our Packages",
+      "subtitle": "Pricing",
+      "viewAll": "View All Pricing"
+    },
+    "testimonials": {
+      "title": "Client Love",
+      "subtitle": "Testimonials",
+      "viewAll": "Read All Reviews"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "FAQ",
+      "viewAll": "See All FAQs"
+    },
+    "cta": {
+      "title": "Ready to Glam?",
+      "heading": "Ready to Glam?",
+      "subtitle": "Book your appointment today and let us create a look that turns heads and captures hearts.",
+      "description": "Book your appointment today and let us make you shine",
+      "book": "Book Now",
+      "bookBtn": "Book Now",
+      "whatsapp": "WhatsApp Us",
+      "whatsappBtn": "Chat on WhatsApp"
+    },
+    "newsletter": {
+      "title": "Join Our Mailing List",
+      "subtitle": "Stay Connected",
+      "tagline": "Stay Connected",
+      "description": "Be the first to know about exclusive offers, new services, and beauty tips delivered to your inbox.",
+      "placeholder": "Enter your email",
+      "subscribe": "Subscribe",
+      "privacy": "No spam. Unsubscribe anytime."
+    }
+  },
+  "about": {
+    "title": "Our Story",
+    "subtitle": "The Journey of Glamed by Anna",
+    "hero": {
+      "description": "Discover the artistry, passion, and dedication behind every transformation."
+    },
+    "story": {
+      "heading": "Where It All Began",
+      "subtitle": "Our Story",
+      "paragraph1": "Glamed by Anna was born from a simple belief: every woman deserves to feel beautiful, confident, and unforgettable. Founded in 2019 by Anna, our studio has become Tanzania's premier destination for luxury makeup artistry.",
+      "paragraph2": "What started as a passion for enhancing natural beauty has grown into a full-service beauty studio that transforms women for their most important moments.",
+      "paragraph3": "Our approach combines technical expertise with artistic vision. We use only premium products, stay current with global trends, and customize every look."
+    },
+    "meetAnna": {
+      "title": "Meet Anna",
+      "subtitle": "The Artist Behind the Brush",
+      "name": "Anna",
+      "role": "Founder & Lead Makeup Artist",
+      "signature": "Anna",
+      "paragraph1": "Anna is a certified professional makeup artist with over 5 years of experience in the beauty industry. Trained at leading makeup academies and constantly refining her skills, Anna brings international standards to Tanzania.",
+      "paragraph2": "Her work has been featured at weddings, fashion shows, editorial shoots, and corporate events. Her signature style blends classic elegance with modern trends.",
+      "paragraph3": "Beyond her technical skill, Anna is known for her warm personality and ability to make every client feel comfortable, heard, and genuinely cared for.",
+      "quote": "Makeup is more than just products. It's about understanding my client's vision, enhancing their natural beauty, and giving them the confidence to shine."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "text": "To empower women through the art of makeup, helping them discover their most beautiful, confident selves while providing an experience that feels luxurious, personalized, and unforgettable."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "text": "To be Tanzania's most trusted luxury makeup brand, recognized for excellence, innovation, and the ability to make every woman feel like the best version of herself."
+    },
+    "values": {
+      "title": "Our Core Values",
+      "heading": "What We Stand For",
+      "excellence": "Excellence",
+      "excellenceDesc": "We never compromise on quality",
+      "authenticity": "Authenticity",
+      "authenticityDesc": "We enhance natural beauty, never mask it",
+      "innovation": "Innovation",
+      "innovationDesc": "We stay ahead of global beauty trends",
+      "integrity": "Integrity",
+      "integrityDesc": "We're honest about what works for you",
+      "joy": "Joy",
+      "joyDesc": "We celebrate beauty in all its forms"
+    },
+    "purpose": {
+      "heading": "Our Purpose",
+      "subtitle": "Why We Do What We Do"
+    },
+    "stats": {
+      "heading": "By the Numbers"
+    },
+    "cta": {
+      "description": "Whether it's your wedding day, a special celebration, or simply a day you want to feel extraordinary — we're here to make it happen."
+    },
+    "meta": {
+      "title": "About Us | Glamed by Anna",
+      "description": "Discover the story behind Glamed by Anna, Tanzania's premier luxury makeup studio. Meet Anna, explore our values, and see why 500+ women trust us."
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Premium beauty services crafted for your unique elegance",
+    "badge": "Our Services",
+    "gridTitle": "Choose Your Glam",
+    "gridSubtitle": "Every service is tailored to enhance your natural beauty",
+    "duration": "Duration",
+    "price": "Price",
+    "benefits": "Benefits",
+    "metaDescription": "Explore Glamed by Anna's luxury makeup services including bridal, soft glam, luxury glam, and more.",
+    "bridal-makeup": {
+      "title": "Bridal Makeup",
+      "description": "Transform your wedding day into a fairytale with our signature bridal makeup. Our expert artists will create a timeless look that photographs beautifully and lasts through your entire celebration.",
+      "duration": "3-4 hours",
+      "price": "From 150,000 TZS"
+    },
+    "soft-glam": {
+      "title": "Soft Glam",
+      "description": "Effortlessly elegant soft glam that enhances your natural beauty. Perfect for daytime events and sophisticated occasions.",
+      "duration": "1.5-2 hours",
+      "price": "From 80,000 TZS"
+    },
+    "natural-glam": {
+      "title": "Natural Glam",
+      "description": "Look like the best version of yourself with our natural glam service. Subtle enhancement that lets your true beauty shine.",
+      "duration": "1-1.5 hours",
+      "price": "From 60,000 TZS"
+    },
+    "luxury-glam": {
+      "title": "Luxury Glam",
+      "description": "Red carpet-ready luxury makeup for your most glamorous moments. Full coverage, dramatic eyes, and flawless finish.",
+      "duration": "2-3 hours",
+      "price": "From 120,000 TZS"
+    },
+    "graduation-makeup": {
+      "title": "Graduation Makeup",
+      "description": "Celebrate your academic achievement with makeup that makes you feel accomplished and beautiful. Perfect for graduation photos and ceremonies.",
+      "duration": "1.5-2 hours",
+      "price": "From 70,000 TZS"
+    },
+    "party-makeup": {
+      "title": "Party Makeup",
+      "description": "Turn heads at your next party with our glamorous party makeup. Glitter, shimmer, and high-impact looks for unforgettable nights.",
+      "duration": "1.5-2 hours",
+      "price": "From 85,000 TZS"
+    },
+    "traditional-makeup": {
+      "title": "Traditional Makeup",
+      "description": "Honor your culture with our traditional makeup services. We understand the unique requirements of traditional ceremonies.",
+      "duration": "2-3 hours",
+      "price": "From 100,000 TZS"
+    },
+    "photoshoot-makeup": {
+      "title": "Photoshoot Makeup",
+      "description": "Professional makeup designed specifically for the camera. Every detail is perfect for your photoshoot.",
+      "duration": "2-3 hours",
+      "price": "From 90,000 TZS"
+    },
+    "home-service": {
+      "title": "Home Service",
+      "description": "Luxury makeup in the comfort of your own home. Our artists come to you for convenience and privacy.",
+      "duration": "Varies",
+      "price": "From +50,000 TZS travel fee"
+    },
+    "hair-styling": {
+      "title": "Hair Styling",
+      "description": "Complete your look with professional hair styling that complements your makeup perfectly.",
+      "duration": "1-2 hours",
+      "price": "From 50,000 TZS"
+    },
+    "lashes": {
+      "title": "Lashes",
+      "description": "Premium lash application for stunning, fluttery eyes. Available in various styles from natural to dramatic.",
+      "duration": "30-45 minutes",
+      "price": "From 30,000 TZS"
+    }
+  },
+  "gallery": {
+    "title": "Our Gallery",
+    "subtitle": "A showcase of transformations and beautiful moments",
+    "badge": "Portfolio",
+    "gridTitle": "Before & After Transformations",
+    "all": "All",
+    "bridal": "Bridal",
+    "graduation": "Graduation",
+    "party": "Party",
+    "traditional": "Traditional",
+    "photoshoot": "Photoshoot",
+    "videos": "Videos",
+    "noResults": "No images found in this category",
+    "previous": "Previous",
+    "next": "Next",
+    "metaDescription": "Browse our gallery of stunning makeup transformations. Bridal, graduation, party, and editorial looks."
+  },
+  "bridal": {
+    "title": "The Bridal Experience",
+    "subtitle": "Your wedding day deserves nothing less than perfection",
+    "badge": "Bridal",
+    "introTitle": "Your Dream Wedding Look",
+    "introSubtitle": "Every bride deserves to feel extraordinary",
+    "introText": "From the initial consultation to the final touch-up on your wedding day, we craft a bridal look that is as unique and unforgettable as your love story.",
+    "whyUsTitle": "Why Brides Choose Us",
+    "whyUsSubtitle": "What sets our bridal service apart",
+    "timeline": {
+      "title": "Your Bridal Journey",
+      "subtitle": "Our Process",
+      "step1": "Consultation",
+      "step1Desc": "We discuss your vision, wedding theme, dress style, and preferred look.",
+      "step2": "Trial Session",
+      "step2Desc": "A full makeup trial to perfect every detail before the big day.",
+      "step3": "Final Confirmation",
+      "step3Desc": "We confirm all details, timeline, and touch-up plan.",
+      "step4": "Wedding Day",
+      "step4Desc": "Flawless execution — we arrive prepared and deliver perfection."
+    },
+    "benefits": {
+      "premium": "Premium, long-lasting products",
+      "customized": "Fully customized to your style",
+      "trials": "Complimentary trial session",
+      "punctual": "Punctual, professional service",
+      "trained": "Internationally trained artist",
+      "clients": "500+ happy brides served"
+    },
+    "testimonialTitle": "Hear From Our Brides",
+    "testimonialSubtitle": "Real stories from real brides",
+    "ctaHeading": "Ready to Plan Your Bridal Look?",
+    "ctaDescription": "Book your bridal consultation today.",
+    "metaDescription": "Discover the ultimate bridal makeup experience with Glamed by Anna. Custom bridal looks, trial sessions, and flawless wedding day execution."
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "subtitle": "Hear from our beautiful clients",
+    "badge": "Testimonials",
+    "gridTitle": "What Our Clients Say",
+    "metaDescription": "Read testimonials from Glamed by Anna's 500+ happy clients. Wedding, graduation, and party makeup reviews.",
+    "t1": "Anna made me feel like a queen on my wedding day. The makeup lasted all night and I've never felt more beautiful.",
+    "s1": "Bridal Makeup",
+    "t2": "Absolutely professional and talented. My graduation photos look stunning thanks to Anna's incredible work.",
+    "s2": "Graduation Makeup",
+    "t3": "The best makeup experience I've ever had. Anna listened to what I wanted and exceeded my expectations.",
+    "s3": "Luxury Glam",
+    "t4": "My bridal makeup was perfection. Anna's attention to detail is unmatched.",
+    "s4": "Bridal Makeup",
+    "t5": "I've never had makeup that lasted this long or looked this natural. Highly recommend.",
+    "s5": "Natural Glam"
+  },
+  "pricing": {
+    "title": "Pricing",
+    "subtitle": "Transparent investment in your beauty",
+    "badge": "Pricing",
+    "gridTitle": "Choose Your Package",
+    "popular": "Most Popular",
+    "includes": "Includes",
+    "bestFor": "Best For",
+    "bookPackage": "Book This Package",
+    "faqTitle": "Pricing Questions",
+    "faqSubtitle": "Common questions about our packages",
+    "metaDescription": "View transparent pricing for Glamed by Anna's luxury makeup services. Bridal, soft glam, luxury glam packages from 60,000 TZS.",
+    "basic": {
+      "name": "Basic Package",
+      "services": "Natural Glam Makeup",
+      "include0": "Consultation",
+      "include1": "Application",
+      "include2": "Touch-up kit",
+      "bestFor": "Everyday occasions, Casual events"
+    },
+    "standard": {
+      "name": "Standard Package",
+      "services": "Soft Glam or Traditional Makeup",
+      "include0": "Consultation",
+      "include1": "Application",
+      "include2": "Touch-up kit",
+      "include3": "Lash application",
+      "bestFor": "Graduations, Parties, Photoshoots"
+    },
+    "premium": {
+      "name": "Premium Package",
+      "services": "Bridal or Luxury Glam",
+      "include0": "Consultation",
+      "include1": "Trial session",
+      "include2": "Application",
+      "include3": "Touch-up kit",
+      "include4": "Premium lashes",
+      "include5": "Lip touch-up kit",
+      "bestFor": "Weddings, Red carpet events"
+    },
+    "vip": {
+      "name": "VIP Experience",
+      "services": "Full bridal package + Home service",
+      "include0": "Consultation",
+      "include1": "Trial session",
+      "include2": "Wedding day application",
+      "include3": "Touch-up kit",
+      "include4": "Premium lashes",
+      "include5": "Lip touch-up kit",
+      "include6": "Home service",
+      "bestFor": "Luxury weddings, Comprehensive service"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about our services",
+    "badge": "FAQ",
+    "gridTitle": "Got Questions?",
+    "ctaHeading": "Still Have Questions?",
+    "ctaDescription": "We're here to help. Reach out and we'll answer everything.",
+    "categories": {
+      "booking": "Booking & Payments",
+      "preparation": "Preparation",
+      "bridal": "Bridal Services",
+      "travel": "Travel & Home Service",
+      "products": "Products & Allergies",
+      "cancellation": "Cancellation"
+    },
+    "metaDescription": "Find answers to frequently asked questions about Glamed by Anna's makeup services, booking process, and policies.",
+    "q1": "How do I book an appointment?",
+    "a1": "You can book an appointment through our website's booking form, or contact us directly via WhatsApp at 0655737871.",
+    "q2": "Do I need to pay a deposit?",
+    "a2": "Yes, we require a 50% deposit to confirm your booking. The remaining balance is due on the day of service.",
+    "q3": "What payment methods do you accept?",
+    "a3": "We accept M-Pesa, bank transfer, and cash payments.",
+    "q4": "How should I prepare for my appointment?",
+    "a4": "Come with a clean, moisturized face. If you have any skin concerns, let us know during consultation.",
+    "q5": "Can I bring my own products?",
+    "a5": "Absolutely! We're happy to use your preferred products if you have allergies or special preferences.",
+    "q6": "When should I book my bridal makeup?",
+    "a6": "We recommend booking at least 3-6 months before your wedding, especially during peak season.",
+    "q7": "Do you offer trial sessions?",
+    "a7": "Yes! Every bridal booking includes a trial session to perfect your look before the big day.",
+    "q8": "Do you travel for events?",
+    "a8": "Yes, we offer home service and travel to various locations. A travel fee applies depending on distance.",
+    "q9": "What areas do you cover?",
+    "a9": "We primarily serve Mbeya and surrounding areas. For other locations, please contact us for availability.",
+    "q10": "What products do you use?",
+    "a10": "We use professional, high-quality products from leading brands. We prioritize skin health and use products suitable for all skin types.",
+    "q11": "Do you cater to sensitive skin?",
+    "a11": "Yes, we have hypoallergenic products and can accommodate most skin sensitivities. Please inform us during booking.",
+    "q12": "What's your cancellation policy?",
+    "a12": "Cancellations must be made at least 48 hours in advance for a full deposit refund. Last-minute cancellations may forfeit the deposit."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We'd love to hear from you",
+    "letsTalk": "Let's Talk",
+    "reachOut": "Reach Out",
+    "pageTitle": "Contact | Glamed by Anna",
+    "metaDescription": "Get in touch with Glamed by Anna. Visit our studio at Mahakama Avenue, Mbeya, or book via WhatsApp.",
+    "mapTitle": "Find Us",
+    "mapSubtitle": "Our Location",
+    "getDirections": "Get Directions",
+    "whatsappBtn": "Chat on WhatsApp",
+    "form": {
+      "heading": "Send a Message",
+      "name": "Full Name",
+      "namePlaceholder": "Your name",
+      "email": "Email Address",
+      "emailPlaceholder": "your@email.com",
+      "phone": "Phone Number",
+      "subject": "Subject",
+      "subjectPlaceholder": "What is this about?",
+      "message": "Your Message",
+      "messagePlaceholder": "Tell us about your vision...",
+      "send": "Send via WhatsApp"
+    },
+    "info": {
+      "phone": "Phone",
+      "email": "Email",
+      "location": "Location",
+      "hours": "Business Hours",
+      "social": "Follow Us"
+    }
+  },
+  "booking": {
+    "title": "Book Your Appointment",
+    "subtitle": "Take the first step toward your glam transformation",
+    "badge": "Book Now",
+    "whyUsTitle": "Why Book With Us",
+    "whyUsSubtitle": "The Glamed by Anna difference",
+    "whatToExpect": "What to Expect",
+    "benefit1": "Professional, certified makeup artist",
+    "benefit2": "Premium, long-lasting products",
+    "benefit3": "Personalized consultation",
+    "benefit4": "Flawless, camera-ready finish",
+    "expect1": "Fill out the booking form with your details",
+    "expect2": "We'll confirm your appointment via WhatsApp",
+    "expect3": "Arrive at our studio or we come to you",
+    "expect4": "Enjoy a luxurious, personalized makeup session",
+    "expect5": "Leave feeling confident, beautiful, and unforgettable",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "phone": "Phone Number",
+      "phonePlaceholder": "e.g., 0712345678",
+      "email": "Email Address",
+      "emailPlaceholder": "your@email.com",
+      "service": "Select Service",
+      "servicePlaceholder": "Choose a service",
+      "date": "Preferred Date",
+      "time": "Preferred Time",
+      "location": "Location",
+      "locationPlaceholder": "Select location",
+      "studio": "Studio (Mahakama Avenue)",
+      "home": "Home Service",
+      "message": "Additional Notes",
+      "messagePlaceholder": "Any special requests or details...",
+      "policy": "By booking, you agree to our cancellation policy (48-hour notice required for full deposit refund).",
+      "submit": "Book via WhatsApp 💬",
+      "instant": "Book Instantly via WhatsApp 💬"
+    },
+    "success": "Your booking details will open in WhatsApp. Please send the message to confirm!",
+    "required": "This field is required",
+    "invalidEmail": "Please enter a valid email",
+    "invalidPhone": "Please enter a valid phone number",
+    "metaDescription": "Book your luxury makeup appointment with Glamed by Anna. Bridal, party, graduation, and photoshoot makeup."
+  },
+  "404": {
+    "title": "Page Not Found",
+    "message": "The page you're looking for doesn't exist or has been moved.",
+    "backHome": "Back to Home",
+    "metaDescription": "Page not found — Glamed by Anna"
+  },
+  "footer": {
+    "tagline": "Helping every woman feel beautiful, confident, elegant, and unforgettable.",
+    "quickLinks": "Quick Links",
+    "services": "Our Services",
+    "contact": "Contact Info",
+    "hours": "Working Hours",
+    "hoursText": "Mon-Fri: 8AM-8PM | Sat: 9AM-6PM",
+    "newsletter": "Newsletter",
+    "newsletterPlaceholder": "Your email address",
+    "copyright": "All rights reserved.",
+    "established": "Est."
+  }
+}
