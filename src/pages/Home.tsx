@@ -133,12 +133,21 @@ export default function Home() {
     <PageTransition>
       {/* ===== HERO ===== */}
       <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-br from-[#1C1C1C] via-[#0d0d0d] to-[#1C1C1C]">
-          <div className="absolute top-0 left-0 w-full h-full">
-            <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-[#D4AF37]/10 rounded-full blur-[120px]" />
-            <div className="absolute bottom-1/3 right-1/4 w-80 h-80 bg-[#C8A97E]/8 rounded-full blur-[100px]" />
-            <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-[#D4AF37]/5 rounded-full blur-[150px]" />
-          </div>
+        {/* Background Image */}
+        <div className="absolute inset-0">
+          <img
+            src="/images/hero-bg.png"
+            alt="Glamed by Anna"
+            className="w-full h-full object-cover"
+          />
+          {/* Dark overlay for text readability */}
+          <div className="absolute inset-0 bg-gradient-to-br from-[#1C1C1C]/70 via-[#0d0d0d]/60 to-[#1C1C1C]/80" />
+        </div>
+        {/* Gold blur orbs for luxury feel */}
+        <div className="absolute top-0 left-0 w-full h-full">
+          <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-[#D4AF37]/10 rounded-full blur-[120px]" />
+          <div className="absolute bottom-1/3 right-1/4 w-80 h-80 bg-[#C8A97E]/8 rounded-full blur-[100px]" />
+          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-[#D4AF37]/5 rounded-full blur-[150px]" />
         </div>
 
         <div className="container-luxury relative z-10 text-center">
