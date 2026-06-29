@@ -1,3 +1,4 @@
+import { useMemo } from 'react';
 import { Helmet } from 'react-helmet-async';
 
 interface SEOProps {
@@ -21,13 +22,18 @@ export function SEO({
 }: SEOProps) {
   const siteName = 'Glamed by Anna';
   const fullTitle = title.includes(siteName) ? title : `${title} | ${siteName}`;
+  const canonical = useMemo(() => {
+    if (canonicalUrl) return canonicalUrl;
+    if (typeof window !== 'undefined') return window.location.href;
+    return 'https://glamedbyanna.com';
+  }, [canonicalUrl]);
 
   return (
     <Helmet>
       <title>{fullTitle}</title>
       <meta name="description" content={description} />
       <meta name="keywords" content={keywords} />
-      <link rel="canonical" href={canonicalUrl || window.location.href} />
+      <link rel="canonical" href={canonical} />
 
       {/* Open Graph */}
       <meta property="og:title" content={fullTitle} />
