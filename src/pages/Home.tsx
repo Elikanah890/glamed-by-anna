@@ -138,16 +138,16 @@ export default function Home() {
           <img
             src="/images/hero-bg.png"
             alt="Glamed by Anna"
-            className="w-full h-full object-contain object-center"
+            className="w-full h-full object-cover object-[center_30%]"
           />
-          {/* Dark overlay for text readability */}
-          <div className="absolute inset-0 bg-gradient-to-br from-[#1C1C1C]/40 via-[#0d0d0d]/30 to-[#1C1C1C]/50" />
+          {/* Gradient overlays for text readability while keeping image visible */}
+          <div className="absolute inset-0 bg-gradient-to-b from-black/20 via-black/30 to-black/60" />
+          <div className="absolute inset-0 bg-gradient-to-r from-black/40 via-transparent to-transparent" />
         </div>
         {/* Gold blur orbs for luxury feel */}
         <div className="absolute top-0 left-0 w-full h-full pointer-events-none">
           <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-[#D4AF37]/10 rounded-full blur-[120px]" />
           <div className="absolute bottom-1/3 right-1/4 w-80 h-80 bg-[#C8A97E]/8 rounded-full blur-[100px]" />
-          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-[#D4AF37]/5 rounded-full blur-[150px]" />
         </div>
 
         <div className="container-luxury relative z-10 text-center">

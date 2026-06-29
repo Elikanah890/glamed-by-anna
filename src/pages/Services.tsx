@@ -29,7 +29,15 @@ export default function Services() {
 
       {/* Hero */}
       <section className="relative min-h-[50vh] flex items-center justify-center overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-br from-[#121212] via-[#1a1a1a] to-[#2a2015]" />
+        <div className="absolute inset-0">
+          <img
+            src="/images/hero-bg.png"
+            alt="Glamed by Anna"
+            className="w-full h-full object-cover object-[center_30%]"
+          />
+          <div className="absolute inset-0 bg-gradient-to-b from-black/30 via-black/50 to-black/70" />
+          <div className="absolute inset-0 bg-gradient-to-r from-black/50 via-transparent to-transparent" />
+        </div>
         <div className="absolute inset-0 bg-gradient-to-t from-[#D4AF37]/10 to-transparent" />
         <div className="absolute top-1/3 right-1/3 w-72 h-72 bg-[#D4AF37]/5 rounded-full blur-3xl" />
 

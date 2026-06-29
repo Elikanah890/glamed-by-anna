@@ -93,7 +93,15 @@ export default function Bridal() {
 
       {/* Hero */}
       <section className="relative min-h-[60vh] flex items-center justify-center overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-br from-[#121212] via-[#1a0a0a] to-[#2a1010]" />
+        <div className="absolute inset-0">
+          <img
+            src="/images/hero-bg.png"
+            alt="Glamed by Anna"
+            className="w-full h-full object-cover object-[center_30%]"
+          />
+          <div className="absolute inset-0 bg-gradient-to-b from-black/30 via-black/50 to-black/70" />
+          <div className="absolute inset-0 bg-gradient-to-r from-black/50 via-transparent to-transparent" />
+        </div>
         <div className="absolute inset-0 bg-gradient-to-t from-[#D4AF37]/15 to-transparent" />
         <div className="absolute top-1/4 left-1/4 w-80 h-80 bg-[#D4AF37]/8 rounded-full blur-3xl" />
         <div className="absolute bottom-1/4 right-1/4 w-64 h-64 bg-[#C8A97E]/8 rounded-full blur-3xl" />
